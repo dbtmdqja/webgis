@@ -47,14 +47,6 @@ OpenLayers appreciates contributions of all kinds.  We especially want to thank 
 
 <br>
 
-[![Pozi logo](./sponsor-logos/pozi.png111)](https://pozi.com/)
-
-> Pozi helps connect communities through spatial thinking.
-> We love Openlayers and it forms a core part of our platform.
-> https://pozi.com/ https://app.pozi.com/
-
-<br>
-
 [![GeoSolutions logo](./sponsor-logos/geosolutions.png)](https://www.geosolutionsgroup.com/)
 
 > Your one-stop-shop for geospatial open source software.
