@@ -47,7 +47,7 @@ OpenLayers appreciates contributions of all kinds.  We especially want to thank 
 
 <br>
 
-[![Pozi logo](./sponsor-logos/pozi.png)](https://pozi.com/)
+[![Pozi logo](./sponsor-logos/pozi.png111)](https://pozi.com/)
 
 > Pozi helps connect communities through spatial thinking.
 > We love Openlayers and it forms a core part of our platform.
